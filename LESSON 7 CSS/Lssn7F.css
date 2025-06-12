@@ -1,0 +1,19 @@
+.Cookies{
+  margin-bottom: 5px;
+}
+
+input{
+  border-radius: 5px; 
+  width: 370px; 
+  height: 25px;
+}
+
+button{
+  background-color: cornflowerblue; 
+  width: 370px; 
+  height: 40px; 
+  border-radius: 100px; 
+  color: rgb(5, 201, 218); 
+  font-size: medium; 
+  border: none;
+}
