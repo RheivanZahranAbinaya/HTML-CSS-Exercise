@@ -1,0 +1,39 @@
+body{
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.Box{
+  display: flex;
+  margin-bottom: 10px;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  max-width: 460px;
+}
+
+.T{
+  width: 200px;
+  height: 110px;
+  object-fit: cover;
+}
+
+.V{
+  padding: 8px 10px;
+}
+
+.J{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.channel{
+  font-size: 14px;
+  color: #555;
+}
+
+.views{
+  font-size: 13px;
+  color: #888;
+}

@@ -1,0 +1,23 @@
+.C{
+  width: 300px; 
+  height: 30px; 
+  background-color: lightgray; 
+  border: none; 
+  margin-bottom: 5px;
+}
+
+.O{
+  width: 120px; 
+  height: 35px; 
+  background-color: black; 
+  color: white; 
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.K{
+  width: 140px; 
+  height: 35px; 
+  background-color: lightgray; 
+  border: none;
+}

@@ -1,0 +1,24 @@
+.C{
+  border-radius: 5px; 
+  width: 120px; 
+  height: 30px;
+}
+
+.O{
+  border-radius: 5px; 
+  width: 250px; 
+  height: 30px; 
+  display: block; 
+  margin-top: 10px; 
+  border-color: lightgray;
+}
+
+.K{
+  border-radius: 5px; 
+  border: none;
+  width: 260px; 
+  height: 35px; 
+  margin-top: 10px; 
+  background-color: cornflowerblue; 
+  color: white;
+}
